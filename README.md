@@ -1,5 +1,5 @@
-# BioinformaticsPipelineToolkit
-A multi-use bioinformatics pipeline to streamline data analysis workflows.
+# Bioinformatics-Pipeline-Tool
+A multi-use bioinformatics pipeline to automate data analysis.
 
 Features included
 -automated data report generation and visualization
